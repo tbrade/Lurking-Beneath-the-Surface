@@ -1,0 +1,34 @@
+
+
+
+p {
+  margin-left: 11.8em;
+  margin-right: 11.8em;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+.heading {
+  margin-left: 7.9em;
+  font-family: sans-serif
+}
+body {
+  background-color:#EAE5E4
+  /*background-color:#CFCAC9 */
+  /*background-color:#888281 */
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+head {
+  background-color:#888281
+}
